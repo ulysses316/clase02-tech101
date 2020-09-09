@@ -1,0 +1,15 @@
+#menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu ul li {
+    float: left;
+}
+#menu a {
+    color: #000000;
+    text-decoration: none; 
+    display: block;
+    padding: 30px 30px;
+    font-size: 18px;
+}
